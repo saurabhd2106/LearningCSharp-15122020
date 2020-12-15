@@ -1,0 +1,19 @@
+
+
+Shortcuts --
+
+Type "cw" + tab + tab -- Print Console.WriteLine();
+Type "svm" + tab + tab -- Print Main method
+
+F5 - Run in debug mode
+CTRL + F5 -- Run in normal mode
+
+
+NameConvention 
+	1. local variables and constants -- camel case
+	2. Classes, Namespace, Methods, Class Variable, Global var -- Pascal case
+
+
+Pascal case -- HelloWorld
+Camel case -- firstNumber
+
