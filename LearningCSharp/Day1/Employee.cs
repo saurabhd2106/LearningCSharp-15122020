@@ -10,7 +10,7 @@ namespace LearningCSharp.Day1
 
         private int bonus;
 
-        public int Salary { private get; set; }
+        public int Salary { get; set; }
 
         public int Bonus {
             get
