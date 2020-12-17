@@ -23,6 +23,7 @@ namespace LearningCSharp.Day1
             Console.WriteLine(saurabhSalary);
 
             saurabh.CalculateSalary();
+            saurabh.CalculateSalary(4000, 5000);
 
             Employee prem = new Employee();
 
