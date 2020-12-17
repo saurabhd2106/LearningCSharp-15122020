@@ -26,6 +26,7 @@ namespace LearningCSharp.Day3
         public override void StopEngine()
         {
             Console.WriteLine("Stop Engine in Car Class");
+            Console.WriteLine("Stop Engine in Car Class");
         }
     }
 }
