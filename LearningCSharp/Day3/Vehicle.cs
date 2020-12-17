@@ -17,6 +17,7 @@ namespace LearningCSharp.Day3
             this.EngineSize = engineSize;
 
             Console.WriteLine("I am a constructor from Vehicle class with engine size - " + engineSize);
+            Console.WriteLine("I am a constructor from Vehicle class with engine size - " + engineSize);
         }
 
         public int EngineSize;
