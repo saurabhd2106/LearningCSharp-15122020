@@ -48,7 +48,7 @@ namespace LearningCSharp.Day1
         public Employee()
         {
 
-            salary = 6000;
+            salary = 9000;
             bonus = 500;
 
         }
