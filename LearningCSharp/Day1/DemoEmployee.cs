@@ -15,6 +15,8 @@ namespace LearningCSharp.Day1
 
             saurabh = new Employee(70000, 2835);
 
+            saurabh.employeeId = 3247823;
+
             saurabh.Salary = 90000;
             saurabh.Bonus = 3247;
 

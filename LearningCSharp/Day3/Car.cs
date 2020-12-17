@@ -15,6 +15,7 @@ namespace LearningCSharp.Day3
 
         public void RestartEnine()
         {
+            EngineSize = 123;
             Console.WriteLine("Restart Enine");
         }
 
