@@ -1,0 +1,19 @@
+	Upload Flow of Git  --
+	
+	
+	git init
+	
+	git config {--global} user.name "saurabh"
+	git config {--global} user.email "saurabh.d210@gmail.com"
+	
+	git add . {or fil} --> Move to Staging directory
+	
+	git commit -m"Messag" --> move to Local Directory
+	
+	git commit -am"message" --> commit + push
+	
+	git remote add origin https://github.com/saurabhd2106/LearningCSharpHttpClient.git
+	
+	git push --set-upstream origin master
+	
+	
